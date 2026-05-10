@@ -1,0 +1,8 @@
+﻿name=True MooZic - Patricio Rey y sus Redonditos de Ricota (B42) 42.13+
+poster=poster.png
+id=TM_TrueMooZicPatricioReyYRedonditos
+versionMin=42.13
+icon=icon.png
+require=\TrueMoozic
+description=Cassettes de Los Redondos para True MooZic (B42.13+).
+author=Usuario

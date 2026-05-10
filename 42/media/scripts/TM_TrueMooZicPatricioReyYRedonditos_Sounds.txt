@@ -1,0 +1,313 @@
+﻿module TM_TrueMooZicPatricioReyYRedonditos
+{
+    sound Cassette01BarbazulVersusElAmorLetal
+    {
+        category = True Music,
+        master = Ambient,
+        clip
+        {
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/01 Barbazul versus el amor letal.ogg,
+            distanceMax = 75,
+        }
+    }
+    sound Cassette01ElTemploDeMomo
+    {
+        category = True Music,
+        master = Ambient,
+        clip
+        {
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/01 El templo de Momo.ogg,
+            distanceMax = 75,
+        }
+    }
+    sound Cassette01HeroeDelWhisky
+    {
+        category = True Music,
+        master = Ambient,
+        clip
+        {
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/01 Héroe del whisky.ogg,
+            distanceMax = 75,
+        }
+    }
+    sound Cassette02LaBestiaPop
+    {
+        category = True Music,
+        master = Ambient,
+        clip
+        {
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/02 La bestia pop.ogg,
+            distanceMax = 75,
+        }
+    }
+    sound Cassette02MortaCom
+    {
+        category = True Music,
+        master = Ambient,
+        clip
+        {
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/02 Morta.com.ogg,
+            distanceMax = 75,
+        }
+    }
+    sound Cassette02RockParaLosDientes
+    {
+        category = True Music,
+        master = Ambient,
+        clip
+        {
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/02 Rock para los dientes.ogg,
+            distanceMax = 75,
+        }
+    }
+    sound Cassette03LaMurgaDeLosRenegados
+    {
+        category = True Music,
+        master = Ambient,
+        clip
+        {
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/03 La murga de los renegados.ogg,
+            distanceMax = 75,
+        }
+    }
+    sound Cassette03LaParabellumDelBuenPsicopata
+    {
+        category = True Music,
+        master = Ambient,
+        clip
+        {
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/03 La parabellum del buen psicópata.ogg,
+            distanceMax = 75,
+        }
+    }
+    sound Cassette03RotoYMalParado
+    {
+        category = True Music,
+        master = Ambient,
+        clip
+        {
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/03 Roto y mal parado.ogg,
+            distanceMax = 75,
+        }
+    }
+    sound Cassette04DoctorSaturno
+    {
+        category = True Music,
+        master = Ambient,
+        clip
+        {
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/04 Doctor Saturno.ogg,
+            distanceMax = 75,
+        }
+    }
+    sound Cassette04PierreElVitricida
+    {
+        category = True Music,
+        master = Ambient,
+        clip
+        {
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/04 Pierre, el vitricida.ogg,
+            distanceMax = 75,
+        }
+    }
+    sound Cassette04UnPacmanEnElSavoy
+    {
+        category = True Music,
+        master = Ambient,
+        clip
+        {
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/04 Un pacman en el Savoy.ogg,
+            distanceMax = 75,
+        }
+    }
+    sound Cassette05MurgaDeLaVirgencita
+    {
+        category = True Music,
+        master = Ambient,
+        clip
+        {
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/05 Murga de la virgencita.ogg,
+            distanceMax = 75,
+        }
+    }
+    sound Cassette05NadieEsPerfecto
+    {
+        category = True Music,
+        master = Ambient,
+        clip
+        {
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/05 Nadie es perfecto.ogg,
+            distanceMax = 75,
+        }
+    }
+    sound Cassette05UnosPocosPeligrosSensatos
+    {
+        category = True Music,
+        master = Ambient,
+        clip
+        {
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/05 Unos pocos peligros sensatos.ogg,
+            distanceMax = 75,
+        }
+    }
+    sound Cassette06EsaEstrellaEraMiLujo
+    {
+        category = True Music,
+        master = Ambient,
+        clip
+        {
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/06 Esa estrella era mi lujo.ogg,
+            distanceMax = 75,
+        }
+    }
+    sound Cassette06PoolAvernaYPapusa
+    {
+        category = True Music,
+        master = Ambient,
+        clip
+        {
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/06 Pool, Averna y papusa.ogg,
+            distanceMax = 75,
+        }
+    }
+    sound Cassette06YoNoMeCaiDelCielo
+    {
+        category = True Music,
+        master = Ambient,
+        clip
+        {
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/06 Yo no me caí del cielo.ogg,
+            distanceMax = 75,
+        }
+    }
+    sound Cassette07MaldicionVaASerUnDiaHermos
+    {
+        category = True Music,
+        master = Ambient,
+        clip
+        {
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/07 Maldición, va a ser un día hermos.ogg,
+            distanceMax = 75,
+        }
+    }
+    sound Cassette07MurgaPurga
+    {
+        category = True Music,
+        master = Ambient,
+        clip
+        {
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/07 Murga purga.ogg,
+            distanceMax = 75,
+        }
+    }
+    sound Cassette07TeVoyAAtornillar
+    {
+        category = True Music,
+        master = Ambient,
+        clip
+        {
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/07 Te voy a atornillar.ogg,
+            distanceMax = 75,
+        }
+    }
+    sound Cassette08RopaSucia
+    {
+        category = True Music,
+        master = Ambient,
+        clip
+        {
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/08 Ropa sucia.ogg,
+            distanceMax = 75,
+        }
+    }
+    sound Cassette08Sheriff
+    {
+        category = True Music,
+        master = Ambient,
+        clip
+        {
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/08 Sheriff.ogg,
+            distanceMax = 75,
+        }
+    }
+    sound Cassette08Superlogico
+    {
+        category = True Music,
+        master = Ambient,
+        clip
+        {
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/08 Superlógico.ogg,
+            distanceMax = 75,
+        }
+    }
+    sound Cassette09NuestroAmoJuegaAlEsclavo
+    {
+        category = True Music,
+        master = Ambient,
+        clip
+        {
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/09 Nuestro amo juega al esclavo.ogg,
+            distanceMax = 75,
+        }
+    }
+    sound Cassette09NamFriFrufiFaliFru
+    {
+        category = True Music,
+        master = Ambient,
+        clip
+        {
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/09 Ñam fri frufi fali fru.ogg,
+            distanceMax = 75,
+        }
+    }
+    sound Cassette09PensandoComoUnaAcelga
+    {
+        category = True Music,
+        master = Ambient,
+        clip
+        {
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/09 Pensando como una acelga.ogg,
+            distanceMax = 75,
+        }
+    }
+    sound Cassette10ElInfiernoEstaEncantadorEsta
+    {
+        category = True Music,
+        master = Ambient,
+        clip
+        {
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/10 El infierno está encantador esta.ogg,
+            distanceMax = 75,
+        }
+    }
+    sound Cassette10UnaPibaConLaRemeraDeGreenpe
+    {
+        category = True Music,
+        master = Ambient,
+        clip
+        {
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/10 Una piba con la remera de Greenpe.ogg,
+            distanceMax = 75,
+        }
+    }
+    sound Cassette11CriminalMambo
+    {
+        category = True Music,
+        master = Ambient,
+        clip
+        {
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/11 Criminal Mambo.ogg,
+            distanceMax = 75,
+        }
+    }
+    sound Cassette11RatoMolhado
+    {
+        category = True Music,
+        master = Ambient,
+        clip
+        {
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/11 Rato molhado.ogg,
+            distanceMax = 75,
+        }
+    }
+}

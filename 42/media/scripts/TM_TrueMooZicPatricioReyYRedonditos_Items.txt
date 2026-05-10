@@ -1,0 +1,349 @@
+﻿module TM_TrueMooZicPatricioReyYRedonditos
+{
+    imports
+    {
+        Base
+    }
+
+    item Cassette01BarbazulVersusElAmorLetal
+    {
+        ItemType        =   base:normal,
+        DisplayCategory = Entertainment,
+        Weight          =   0.02,
+        Icon            =   TCTape1,
+        DisplayName     =   Cassette 01 Barbazul versus el amor letal,
+        WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape1,
+        CanSpawn        =   true,
+    }
+
+    item Cassette01ElTemploDeMomo
+    {
+        ItemType        =   base:normal,
+        DisplayCategory = Entertainment,
+        Weight          =   0.02,
+        Icon            =   TCTape2,
+        DisplayName     =   Cassette 01 El templo de Momo,
+        WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape2,
+        CanSpawn        =   true,
+    }
+
+    item Cassette01HeroeDelWhisky
+    {
+        ItemType        =   base:normal,
+        DisplayCategory = Entertainment,
+        Weight          =   0.02,
+        Icon            =   TCTape3,
+        DisplayName     =   Cassette 01 Héroe del whisky,
+        WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape3,
+        CanSpawn        =   true,
+    }
+
+    item Cassette02LaBestiaPop
+    {
+        ItemType        =   base:normal,
+        DisplayCategory = Entertainment,
+        Weight          =   0.02,
+        Icon            =   TCTape4,
+        DisplayName     =   Cassette 02 La bestia pop,
+        WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape4,
+        CanSpawn        =   true,
+    }
+
+    item Cassette02MortaCom
+    {
+        ItemType        =   base:normal,
+        DisplayCategory = Entertainment,
+        Weight          =   0.02,
+        Icon            =   TCTape5,
+        DisplayName     =   Cassette 02 Morta.com,
+        WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape5,
+        CanSpawn        =   true,
+    }
+
+    item Cassette02RockParaLosDientes
+    {
+        ItemType        =   base:normal,
+        DisplayCategory = Entertainment,
+        Weight          =   0.02,
+        Icon            =   TCTape6,
+        DisplayName     =   Cassette 02 Rock para los dientes,
+        WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape6,
+        CanSpawn        =   true,
+    }
+
+    item Cassette03LaMurgaDeLosRenegados
+    {
+        ItemType        =   base:normal,
+        DisplayCategory = Entertainment,
+        Weight          =   0.02,
+        Icon            =   TCTape7,
+        DisplayName     =   Cassette 03 La murga de los renegados,
+        WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape7,
+        CanSpawn        =   true,
+    }
+
+    item Cassette03LaParabellumDelBuenPsicopata
+    {
+        ItemType        =   base:normal,
+        DisplayCategory = Entertainment,
+        Weight          =   0.02,
+        Icon            =   TCTape8,
+        DisplayName     =   Cassette 03 La parabellum del buen psicópata,
+        WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape8,
+        CanSpawn        =   true,
+    }
+
+    item Cassette03RotoYMalParado
+    {
+        ItemType        =   base:normal,
+        DisplayCategory = Entertainment,
+        Weight          =   0.02,
+        Icon            =   TCTape9,
+        DisplayName     =   Cassette 03 Roto y mal parado,
+        WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape9,
+        CanSpawn        =   true,
+    }
+
+    item Cassette04DoctorSaturno
+    {
+        ItemType        =   base:normal,
+        DisplayCategory = Entertainment,
+        Weight          =   0.02,
+        Icon            =   TCTape10,
+        DisplayName     =   Cassette 04 Doctor Saturno,
+        WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape10,
+        CanSpawn        =   true,
+    }
+
+    item Cassette04PierreElVitricida
+    {
+        ItemType        =   base:normal,
+        DisplayCategory = Entertainment,
+        Weight          =   0.02,
+        Icon            =   TCTape11,
+        DisplayName     =   Cassette 04 Pierre, el vitricida,
+        WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape11,
+        CanSpawn        =   true,
+    }
+
+    item Cassette04UnPacmanEnElSavoy
+    {
+        ItemType        =   base:normal,
+        DisplayCategory = Entertainment,
+        Weight          =   0.02,
+        Icon            =   TCTape12,
+        DisplayName     =   Cassette 04 Un pacman en el Savoy,
+        WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape12,
+        CanSpawn        =   true,
+    }
+
+    item Cassette05MurgaDeLaVirgencita
+    {
+        ItemType        =   base:normal,
+        DisplayCategory = Entertainment,
+        Weight          =   0.02,
+        Icon            =   TCTape1,
+        DisplayName     =   Cassette 05 Murga de la virgencita,
+        WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape1,
+        CanSpawn        =   true,
+    }
+
+    item Cassette05NadieEsPerfecto
+    {
+        ItemType        =   base:normal,
+        DisplayCategory = Entertainment,
+        Weight          =   0.02,
+        Icon            =   TCTape2,
+        DisplayName     =   Cassette 05 Nadie es perfecto,
+        WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape2,
+        CanSpawn        =   true,
+    }
+
+    item Cassette05UnosPocosPeligrosSensatos
+    {
+        ItemType        =   base:normal,
+        DisplayCategory = Entertainment,
+        Weight          =   0.02,
+        Icon            =   TCTape3,
+        DisplayName     =   Cassette 05 Unos pocos peligros sensatos,
+        WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape3,
+        CanSpawn        =   true,
+    }
+
+    item Cassette06EsaEstrellaEraMiLujo
+    {
+        ItemType        =   base:normal,
+        DisplayCategory = Entertainment,
+        Weight          =   0.02,
+        Icon            =   TCTape4,
+        DisplayName     =   Cassette 06 Esa estrella era mi lujo,
+        WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape4,
+        CanSpawn        =   true,
+    }
+
+    item Cassette06PoolAvernaYPapusa
+    {
+        ItemType        =   base:normal,
+        DisplayCategory = Entertainment,
+        Weight          =   0.02,
+        Icon            =   TCTape5,
+        DisplayName     =   Cassette 06 Pool, Averna y papusa,
+        WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape5,
+        CanSpawn        =   true,
+    }
+
+    item Cassette06YoNoMeCaiDelCielo
+    {
+        ItemType        =   base:normal,
+        DisplayCategory = Entertainment,
+        Weight          =   0.02,
+        Icon            =   TCTape6,
+        DisplayName     =   Cassette 06 Yo no me caí del cielo,
+        WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape6,
+        CanSpawn        =   true,
+    }
+
+    item Cassette07MaldicionVaASerUnDiaHermos
+    {
+        ItemType        =   base:normal,
+        DisplayCategory = Entertainment,
+        Weight          =   0.02,
+        Icon            =   TCTape7,
+        DisplayName     =   Cassette 07 Maldición, va a ser un día hermos,
+        WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape7,
+        CanSpawn        =   true,
+    }
+
+    item Cassette07MurgaPurga
+    {
+        ItemType        =   base:normal,
+        DisplayCategory = Entertainment,
+        Weight          =   0.02,
+        Icon            =   TCTape8,
+        DisplayName     =   Cassette 07 Murga purga,
+        WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape8,
+        CanSpawn        =   true,
+    }
+
+    item Cassette07TeVoyAAtornillar
+    {
+        ItemType        =   base:normal,
+        DisplayCategory = Entertainment,
+        Weight          =   0.02,
+        Icon            =   TCTape9,
+        DisplayName     =   Cassette 07 Te voy a atornillar,
+        WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape9,
+        CanSpawn        =   true,
+    }
+
+    item Cassette08RopaSucia
+    {
+        ItemType        =   base:normal,
+        DisplayCategory = Entertainment,
+        Weight          =   0.02,
+        Icon            =   TCTape10,
+        DisplayName     =   Cassette 08 Ropa sucia,
+        WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape10,
+        CanSpawn        =   true,
+    }
+
+    item Cassette08Sheriff
+    {
+        ItemType        =   base:normal,
+        DisplayCategory = Entertainment,
+        Weight          =   0.02,
+        Icon            =   TCTape11,
+        DisplayName     =   Cassette 08 Sheriff,
+        WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape11,
+        CanSpawn        =   true,
+    }
+
+    item Cassette08Superlogico
+    {
+        ItemType        =   base:normal,
+        DisplayCategory = Entertainment,
+        Weight          =   0.02,
+        Icon            =   TCTape12,
+        DisplayName     =   Cassette 08 Superlógico,
+        WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape12,
+        CanSpawn        =   true,
+    }
+
+    item Cassette09NuestroAmoJuegaAlEsclavo
+    {
+        ItemType        =   base:normal,
+        DisplayCategory = Entertainment,
+        Weight          =   0.02,
+        Icon            =   TCTape1,
+        DisplayName     =   Cassette 09 Nuestro amo juega al esclavo,
+        WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape1,
+        CanSpawn        =   true,
+    }
+
+    item Cassette09NamFriFrufiFaliFru
+    {
+        ItemType        =   base:normal,
+        DisplayCategory = Entertainment,
+        Weight          =   0.02,
+        Icon            =   TCTape2,
+        DisplayName     =   Cassette 09 Ñam fri frufi fali fru,
+        WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape2,
+        CanSpawn        =   true,
+    }
+
+    item Cassette09PensandoComoUnaAcelga
+    {
+        ItemType        =   base:normal,
+        DisplayCategory = Entertainment,
+        Weight          =   0.02,
+        Icon            =   TCTape3,
+        DisplayName     =   Cassette 09 Pensando como una acelga,
+        WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape3,
+        CanSpawn        =   true,
+    }
+
+    item Cassette10ElInfiernoEstaEncantadorEsta
+    {
+        ItemType        =   base:normal,
+        DisplayCategory = Entertainment,
+        Weight          =   0.02,
+        Icon            =   TCTape4,
+        DisplayName     =   Cassette 10 El infierno está encantador esta,
+        WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape4,
+        CanSpawn        =   true,
+    }
+
+    item Cassette10UnaPibaConLaRemeraDeGreenpe
+    {
+        ItemType        =   base:normal,
+        DisplayCategory = Entertainment,
+        Weight          =   0.02,
+        Icon            =   TCTape5,
+        DisplayName     =   Cassette 10 Una piba con la remera de Greenpe,
+        WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape5,
+        CanSpawn        =   true,
+    }
+
+    item Cassette11CriminalMambo
+    {
+        ItemType        =   base:normal,
+        DisplayCategory = Entertainment,
+        Weight          =   0.02,
+        Icon            =   TCTape6,
+        DisplayName     =   Cassette 11 Criminal Mambo,
+        WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape6,
+        CanSpawn        =   true,
+    }
+
+    item Cassette11RatoMolhado
+    {
+        ItemType        =   base:normal,
+        DisplayCategory = Entertainment,
+        Weight          =   0.02,
+        Icon            =   TCTape7,
+        DisplayName     =   Cassette 11 Rato molhado,
+        WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape7,
+        CanSpawn        =   true,
+    }
+
+}
