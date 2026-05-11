@@ -1,4 +1,6 @@
+print("[TM_REDONDOS] MusicDefs.lua START")
 require "TCMusicDefenitions"
+print("[TM_REDONDOS] MusicDefs.lua after require")
 
 GlobalMusic["Cassette01BarbazulVersusElAmorLetal"] = "tsarcraft_music_01_62"
 GlobalMusic["Cassette01ElTemploDeMomo"] = "tsarcraft_music_01_62"
@@ -31,3 +33,4 @@ GlobalMusic["Cassette10ElInfiernoEstaEncantadorEsta"] = "tsarcraft_music_01_62"
 GlobalMusic["Cassette10UnaPibaConLaRemeraDeGreenpe"] = "tsarcraft_music_01_62"
 GlobalMusic["Cassette11CriminalMambo"] = "tsarcraft_music_01_62"
 GlobalMusic["Cassette11RatoMolhado"] = "tsarcraft_music_01_62"
+print("[TM_REDONDOS] MusicDefs.lua END - 31 cassettes registered as cassette type")

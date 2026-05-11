@@ -1,4 +1,4 @@
-﻿module TM_TrueMooZicPatricioReyYRedonditos
+module TM_TrueMooZicPatricioReyYRedonditos
 {
     sound Cassette01BarbazulVersusElAmorLetal
     {
@@ -6,7 +6,7 @@
         master = Ambient,
         clip
         {
-            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/01 Barbazul versus el amor letal.ogg,
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/Cassette01BarbazulVersusElAmorLetal.ogg,
             distanceMax = 75,
         }
     }
@@ -16,7 +16,7 @@
         master = Ambient,
         clip
         {
-            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/01 El templo de Momo.ogg,
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/Cassette01ElTemploDeMomo.ogg,
             distanceMax = 75,
         }
     }
@@ -26,7 +26,7 @@
         master = Ambient,
         clip
         {
-            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/01 Héroe del whisky.ogg,
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/Cassette01HeroeDelWhisky.ogg,
             distanceMax = 75,
         }
     }
@@ -36,7 +36,7 @@
         master = Ambient,
         clip
         {
-            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/02 La bestia pop.ogg,
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/Cassette02LaBestiaPop.ogg,
             distanceMax = 75,
         }
     }
@@ -46,7 +46,7 @@
         master = Ambient,
         clip
         {
-            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/02 Morta.com.ogg,
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/Cassette02MortaCom.ogg,
             distanceMax = 75,
         }
     }
@@ -56,7 +56,7 @@
         master = Ambient,
         clip
         {
-            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/02 Rock para los dientes.ogg,
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/Cassette02RockParaLosDientes.ogg,
             distanceMax = 75,
         }
     }
@@ -66,7 +66,7 @@
         master = Ambient,
         clip
         {
-            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/03 La murga de los renegados.ogg,
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/Cassette03LaMurgaDeLosRenegados.ogg,
             distanceMax = 75,
         }
     }
@@ -76,7 +76,7 @@
         master = Ambient,
         clip
         {
-            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/03 La parabellum del buen psicópata.ogg,
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/Cassette03LaParabellumDelBuenPsicopata.ogg,
             distanceMax = 75,
         }
     }
@@ -86,7 +86,7 @@
         master = Ambient,
         clip
         {
-            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/03 Roto y mal parado.ogg,
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/Cassette03RotoYMalParado.ogg,
             distanceMax = 75,
         }
     }
@@ -96,7 +96,7 @@
         master = Ambient,
         clip
         {
-            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/04 Doctor Saturno.ogg,
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/Cassette04DoctorSaturno.ogg,
             distanceMax = 75,
         }
     }
@@ -106,7 +106,7 @@
         master = Ambient,
         clip
         {
-            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/04 Pierre, el vitricida.ogg,
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/Cassette04PierreElVitricida.ogg,
             distanceMax = 75,
         }
     }
@@ -116,7 +116,7 @@
         master = Ambient,
         clip
         {
-            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/04 Un pacman en el Savoy.ogg,
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/Cassette04UnPacmanEnElSavoy.ogg,
             distanceMax = 75,
         }
     }
@@ -126,7 +126,7 @@
         master = Ambient,
         clip
         {
-            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/05 Murga de la virgencita.ogg,
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/Cassette05MurgaDeLaVirgencita.ogg,
             distanceMax = 75,
         }
     }
@@ -136,7 +136,7 @@
         master = Ambient,
         clip
         {
-            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/05 Nadie es perfecto.ogg,
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/Cassette05NadieEsPerfecto.ogg,
             distanceMax = 75,
         }
     }
@@ -146,7 +146,7 @@
         master = Ambient,
         clip
         {
-            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/05 Unos pocos peligros sensatos.ogg,
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/Cassette05UnosPocosPeligrosSensatos.ogg,
             distanceMax = 75,
         }
     }
@@ -156,7 +156,7 @@
         master = Ambient,
         clip
         {
-            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/06 Esa estrella era mi lujo.ogg,
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/Cassette06EsaEstrellaEraMiLujo.ogg,
             distanceMax = 75,
         }
     }
@@ -166,7 +166,7 @@
         master = Ambient,
         clip
         {
-            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/06 Pool, Averna y papusa.ogg,
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/Cassette06PoolAvernaYPapusa.ogg,
             distanceMax = 75,
         }
     }
@@ -176,7 +176,7 @@
         master = Ambient,
         clip
         {
-            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/06 Yo no me caí del cielo.ogg,
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/Cassette06YoNoMeCaiDelCielo.ogg,
             distanceMax = 75,
         }
     }
@@ -186,7 +186,7 @@
         master = Ambient,
         clip
         {
-            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/07 Maldición, va a ser un día hermos.ogg,
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/Cassette07MaldicionVaASerUnDiaHermos.ogg,
             distanceMax = 75,
         }
     }
@@ -196,7 +196,7 @@
         master = Ambient,
         clip
         {
-            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/07 Murga purga.ogg,
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/Cassette07MurgaPurga.ogg,
             distanceMax = 75,
         }
     }
@@ -206,7 +206,7 @@
         master = Ambient,
         clip
         {
-            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/07 Te voy a atornillar.ogg,
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/Cassette07TeVoyAAtornillar.ogg,
             distanceMax = 75,
         }
     }
@@ -216,7 +216,7 @@
         master = Ambient,
         clip
         {
-            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/08 Ropa sucia.ogg,
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/Cassette08RopaSucia.ogg,
             distanceMax = 75,
         }
     }
@@ -226,7 +226,7 @@
         master = Ambient,
         clip
         {
-            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/08 Sheriff.ogg,
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/Cassette08Sheriff.ogg,
             distanceMax = 75,
         }
     }
@@ -236,7 +236,7 @@
         master = Ambient,
         clip
         {
-            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/08 Superlógico.ogg,
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/Cassette08Superlogico.ogg,
             distanceMax = 75,
         }
     }
@@ -246,7 +246,7 @@
         master = Ambient,
         clip
         {
-            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/09 Nuestro amo juega al esclavo.ogg,
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/Cassette09NuestroAmoJuegaAlEsclavo.ogg,
             distanceMax = 75,
         }
     }
@@ -256,7 +256,7 @@
         master = Ambient,
         clip
         {
-            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/09 Ñam fri frufi fali fru.ogg,
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/Cassette09NamFriFrufiFaliFru.ogg,
             distanceMax = 75,
         }
     }
@@ -266,7 +266,7 @@
         master = Ambient,
         clip
         {
-            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/09 Pensando como una acelga.ogg,
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/Cassette09PensandoComoUnaAcelga.ogg,
             distanceMax = 75,
         }
     }
@@ -276,7 +276,7 @@
         master = Ambient,
         clip
         {
-            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/10 El infierno está encantador esta.ogg,
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/Cassette10ElInfiernoEstaEncantadorEsta.ogg,
             distanceMax = 75,
         }
     }
@@ -286,7 +286,7 @@
         master = Ambient,
         clip
         {
-            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/10 Una piba con la remera de Greenpe.ogg,
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/Cassette10UnaPibaConLaRemeraDeGreenpe.ogg,
             distanceMax = 75,
         }
     }
@@ -296,7 +296,7 @@
         master = Ambient,
         clip
         {
-            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/11 Criminal Mambo.ogg,
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/Cassette11CriminalMambo.ogg,
             distanceMax = 75,
         }
     }
@@ -306,7 +306,7 @@
         master = Ambient,
         clip
         {
-            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/11 Rato molhado.ogg,
+            file = media/sound/TM_TrueMooZicPatricioReyYRedonditos/Cassette11RatoMolhado.ogg,
             distanceMax = 75,
         }
     }

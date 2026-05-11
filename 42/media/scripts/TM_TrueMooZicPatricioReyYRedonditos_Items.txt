@@ -1,4 +1,4 @@
-﻿module TM_TrueMooZicPatricioReyYRedonditos
+module TM_TrueMooZicPatricioReyYRedonditos
 {
     imports
     {
@@ -11,7 +11,7 @@
         DisplayCategory = Entertainment,
         Weight          =   0.02,
         Icon            =   TCTape1,
-        DisplayName     =   Cassette 01 Barbazul versus el amor letal,
+        DisplayName     =   Cassette Los Redondos - Barbazul versus el amor letal,
         WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape1,
         CanSpawn        =   true,
     }
@@ -22,7 +22,7 @@
         DisplayCategory = Entertainment,
         Weight          =   0.02,
         Icon            =   TCTape2,
-        DisplayName     =   Cassette 01 El templo de Momo,
+        DisplayName     =   Cassette Los Redondos - El templo de Momo,
         WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape2,
         CanSpawn        =   true,
     }
@@ -33,7 +33,7 @@
         DisplayCategory = Entertainment,
         Weight          =   0.02,
         Icon            =   TCTape3,
-        DisplayName     =   Cassette 01 Héroe del whisky,
+        DisplayName     =   Cassette Los Redondos - Heroe del whisky,
         WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape3,
         CanSpawn        =   true,
     }
@@ -44,7 +44,7 @@
         DisplayCategory = Entertainment,
         Weight          =   0.02,
         Icon            =   TCTape4,
-        DisplayName     =   Cassette 02 La bestia pop,
+        DisplayName     =   Cassette Los Redondos - La bestia pop,
         WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape4,
         CanSpawn        =   true,
     }
@@ -55,7 +55,7 @@
         DisplayCategory = Entertainment,
         Weight          =   0.02,
         Icon            =   TCTape5,
-        DisplayName     =   Cassette 02 Morta.com,
+        DisplayName     =   Cassette Los Redondos - Morta.com,
         WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape5,
         CanSpawn        =   true,
     }
@@ -66,7 +66,7 @@
         DisplayCategory = Entertainment,
         Weight          =   0.02,
         Icon            =   TCTape6,
-        DisplayName     =   Cassette 02 Rock para los dientes,
+        DisplayName     =   Cassette Los Redondos - Rock para los dientes,
         WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape6,
         CanSpawn        =   true,
     }
@@ -77,7 +77,7 @@
         DisplayCategory = Entertainment,
         Weight          =   0.02,
         Icon            =   TCTape7,
-        DisplayName     =   Cassette 03 La murga de los renegados,
+        DisplayName     =   Cassette Los Redondos - La murga de los renegados,
         WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape7,
         CanSpawn        =   true,
     }
@@ -88,7 +88,7 @@
         DisplayCategory = Entertainment,
         Weight          =   0.02,
         Icon            =   TCTape8,
-        DisplayName     =   Cassette 03 La parabellum del buen psicópata,
+        DisplayName     =   Cassette Los Redondos - La parabellum del buen psicopata,
         WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape8,
         CanSpawn        =   true,
     }
@@ -99,7 +99,7 @@
         DisplayCategory = Entertainment,
         Weight          =   0.02,
         Icon            =   TCTape9,
-        DisplayName     =   Cassette 03 Roto y mal parado,
+        DisplayName     =   Cassette Los Redondos - Roto y mal parado,
         WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape9,
         CanSpawn        =   true,
     }
@@ -110,7 +110,7 @@
         DisplayCategory = Entertainment,
         Weight          =   0.02,
         Icon            =   TCTape10,
-        DisplayName     =   Cassette 04 Doctor Saturno,
+        DisplayName     =   Cassette Los Redondos - Doctor Saturno,
         WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape10,
         CanSpawn        =   true,
     }
@@ -121,7 +121,7 @@
         DisplayCategory = Entertainment,
         Weight          =   0.02,
         Icon            =   TCTape11,
-        DisplayName     =   Cassette 04 Pierre, el vitricida,
+        DisplayName     =   Cassette Los Redondos - Pierre el vitricida,
         WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape11,
         CanSpawn        =   true,
     }
@@ -132,7 +132,7 @@
         DisplayCategory = Entertainment,
         Weight          =   0.02,
         Icon            =   TCTape12,
-        DisplayName     =   Cassette 04 Un pacman en el Savoy,
+        DisplayName     =   Cassette Los Redondos - Un pacman en el Savoy,
         WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape12,
         CanSpawn        =   true,
     }
@@ -143,7 +143,7 @@
         DisplayCategory = Entertainment,
         Weight          =   0.02,
         Icon            =   TCTape1,
-        DisplayName     =   Cassette 05 Murga de la virgencita,
+        DisplayName     =   Cassette Los Redondos - Murga de la virgencita,
         WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape1,
         CanSpawn        =   true,
     }
@@ -154,7 +154,7 @@
         DisplayCategory = Entertainment,
         Weight          =   0.02,
         Icon            =   TCTape2,
-        DisplayName     =   Cassette 05 Nadie es perfecto,
+        DisplayName     =   Cassette Los Redondos - Nadie es perfecto,
         WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape2,
         CanSpawn        =   true,
     }
@@ -165,7 +165,7 @@
         DisplayCategory = Entertainment,
         Weight          =   0.02,
         Icon            =   TCTape3,
-        DisplayName     =   Cassette 05 Unos pocos peligros sensatos,
+        DisplayName     =   Cassette Los Redondos - Unos pocos peligros sensatos,
         WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape3,
         CanSpawn        =   true,
     }
@@ -176,7 +176,7 @@
         DisplayCategory = Entertainment,
         Weight          =   0.02,
         Icon            =   TCTape4,
-        DisplayName     =   Cassette 06 Esa estrella era mi lujo,
+        DisplayName     =   Cassette Los Redondos - Esa estrella era mi lujo,
         WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape4,
         CanSpawn        =   true,
     }
@@ -187,7 +187,7 @@
         DisplayCategory = Entertainment,
         Weight          =   0.02,
         Icon            =   TCTape5,
-        DisplayName     =   Cassette 06 Pool, Averna y papusa,
+        DisplayName     =   Cassette Los Redondos - Pool Averna y papusa,
         WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape5,
         CanSpawn        =   true,
     }
@@ -198,7 +198,7 @@
         DisplayCategory = Entertainment,
         Weight          =   0.02,
         Icon            =   TCTape6,
-        DisplayName     =   Cassette 06 Yo no me caí del cielo,
+        DisplayName     =   Cassette Los Redondos - Yo no me cai del cielo,
         WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape6,
         CanSpawn        =   true,
     }
@@ -209,7 +209,7 @@
         DisplayCategory = Entertainment,
         Weight          =   0.02,
         Icon            =   TCTape7,
-        DisplayName     =   Cassette 07 Maldición, va a ser un día hermos,
+        DisplayName     =   Cassette Los Redondos - Maldicion va a ser un dia hermoso,
         WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape7,
         CanSpawn        =   true,
     }
@@ -220,7 +220,7 @@
         DisplayCategory = Entertainment,
         Weight          =   0.02,
         Icon            =   TCTape8,
-        DisplayName     =   Cassette 07 Murga purga,
+        DisplayName     =   Cassette Los Redondos - Murga purga,
         WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape8,
         CanSpawn        =   true,
     }
@@ -231,7 +231,7 @@
         DisplayCategory = Entertainment,
         Weight          =   0.02,
         Icon            =   TCTape9,
-        DisplayName     =   Cassette 07 Te voy a atornillar,
+        DisplayName     =   Cassette Los Redondos - Te voy a atornillar,
         WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape9,
         CanSpawn        =   true,
     }
@@ -242,7 +242,7 @@
         DisplayCategory = Entertainment,
         Weight          =   0.02,
         Icon            =   TCTape10,
-        DisplayName     =   Cassette 08 Ropa sucia,
+        DisplayName     =   Cassette Los Redondos - Ropa sucia,
         WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape10,
         CanSpawn        =   true,
     }
@@ -253,7 +253,7 @@
         DisplayCategory = Entertainment,
         Weight          =   0.02,
         Icon            =   TCTape11,
-        DisplayName     =   Cassette 08 Sheriff,
+        DisplayName     =   Cassette Los Redondos - Sheriff,
         WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape11,
         CanSpawn        =   true,
     }
@@ -264,7 +264,7 @@
         DisplayCategory = Entertainment,
         Weight          =   0.02,
         Icon            =   TCTape12,
-        DisplayName     =   Cassette 08 Superlógico,
+        DisplayName     =   Cassette Los Redondos - Superlogico,
         WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape12,
         CanSpawn        =   true,
     }
@@ -275,7 +275,7 @@
         DisplayCategory = Entertainment,
         Weight          =   0.02,
         Icon            =   TCTape1,
-        DisplayName     =   Cassette 09 Nuestro amo juega al esclavo,
+        DisplayName     =   Cassette Los Redondos - Nuestro amo juega al esclavo,
         WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape1,
         CanSpawn        =   true,
     }
@@ -286,7 +286,7 @@
         DisplayCategory = Entertainment,
         Weight          =   0.02,
         Icon            =   TCTape2,
-        DisplayName     =   Cassette 09 Ñam fri frufi fali fru,
+        DisplayName     =   Cassette Los Redondos - Nam fri frufi fali fru,
         WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape2,
         CanSpawn        =   true,
     }
@@ -297,7 +297,7 @@
         DisplayCategory = Entertainment,
         Weight          =   0.02,
         Icon            =   TCTape3,
-        DisplayName     =   Cassette 09 Pensando como una acelga,
+        DisplayName     =   Cassette Los Redondos - Pensando como una acelga,
         WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape3,
         CanSpawn        =   true,
     }
@@ -308,7 +308,7 @@
         DisplayCategory = Entertainment,
         Weight          =   0.02,
         Icon            =   TCTape4,
-        DisplayName     =   Cassette 10 El infierno está encantador esta,
+        DisplayName     =   Cassette Los Redondos - El infierno esta encantador,
         WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape4,
         CanSpawn        =   true,
     }
@@ -319,7 +319,7 @@
         DisplayCategory = Entertainment,
         Weight          =   0.02,
         Icon            =   TCTape5,
-        DisplayName     =   Cassette 10 Una piba con la remera de Greenpe,
+        DisplayName     =   Cassette Los Redondos - Una piba con la remera de Greenpeace,
         WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape5,
         CanSpawn        =   true,
     }
@@ -330,7 +330,7 @@
         DisplayCategory = Entertainment,
         Weight          =   0.02,
         Icon            =   TCTape6,
-        DisplayName     =   Cassette 11 Criminal Mambo,
+        DisplayName     =   Cassette Los Redondos - Criminal Mambo,
         WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape6,
         CanSpawn        =   true,
     }
@@ -341,7 +341,7 @@
         DisplayCategory = Entertainment,
         Weight          =   0.02,
         Icon            =   TCTape7,
-        DisplayName     =   Cassette 11 Rato molhado,
+        DisplayName     =   Cassette Los Redondos - Rato molhado,
         WorldStaticModel = TM_TrueMooZicPatricioReyYRedonditos.TCTape7,
         CanSpawn        =   true,
     }

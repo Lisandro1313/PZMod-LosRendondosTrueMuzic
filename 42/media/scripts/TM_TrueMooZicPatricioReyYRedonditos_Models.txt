@@ -1,4 +1,4 @@
-﻿module TM_TrueMooZicPatricioReyYRedonditos
+module TM_TrueMooZicPatricioReyYRedonditos
 {
     imports
     {
